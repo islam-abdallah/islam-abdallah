@@ -4,6 +4,8 @@
 
 I'm passionate about creating interactive, responsive, and visually appealing web applications. With extensive experience in Angular, React, and modern front-end technologies, I build applications that enhance user experiences and improve user engagement.
 
+Currently, I'm working at AFAQY, building enterprise solutions in the fleet management industry. I have a Bachelor's degree in Information Systems Security from Pharaohs Institutes. I believe in continuous learning, innovation, and sharing knowledge with the developer community.
+
 ---
 
 ## 🛠️ Technologies & Tools
@@ -29,7 +31,7 @@ I'm passionate about creating interactive, responsive, and visually appealing we
   - Developing enterprise-level fleet management solutions using Angular and TypeScript.
 
 - **Senior Front-End Developer at YOUXEL (Sep 2021 – Aug 2023)**
-  - Built responsive web applications, enhancing UI/UX significantly.
+  - Built responsive web and mobile applications, enhancing UI/UX significantly.
 
 - **Senior Front-End Developer at El-Dokan (May 2020 – Sep 2021)**
   - Developed e-commerce platforms, improving sales and user engagement.
@@ -71,6 +73,52 @@ I'm passionate about creating interactive, responsive, and visually appealing we
 
 ---
 
+## 📝 Recent Activities
+
+I regularly share insights and practical tips about:
+- Angular best practices
+- Front-end performance optimization
+- UI/UX trends and innovations
+- Building scalable web applications
+
+### 📚 Featured LinkedIn Posts
+
+- **Top Books to Master Front-End and Angular**
+  - A curated list of must-read books for front-end developers focusing on Angular.
+  - [Read More »](https://www.linkedin.com/posts/islamabdallahsalem_books-frontend-angular-activity-7319646077631053824-mogz)
+
+- **Essential Skills for Front-End Developers**
+  - Discussing key skills every front-end engineer should master for a successful career.
+  - [Read More »](https://www.linkedin.com/posts/islamabdallahsalem_frontend-angular-softwareengineer-activity-7319421190530301952-XqtM)
+
+- **Angular Books for Developers**
+  - Sharing a list of Angular-focused books to deepen technical expertise.
+  - [Read More »](https://www.linkedin.com/posts/islamabdallahsalem_books-frontend-angular-activity-7318351799839604737-po18)
+
+- **Tips to Grow as a Front-End Engineer**
+  - Personal reflections and tips on advancing as a front-end engineer.
+  - [Read More »](https://www.linkedin.com/posts/islamabdallahsalem_frontend-angular-softwareengineer-activity-7318194500235931649-VVO6)
+
+- **Important Advice for Angular Developers**
+  - Key advice and strategies for improving as an Angular developer.
+  - [Read More »](https://www.linkedin.com/posts/islamabdallahsalem_frontend-angular-softwareengineer-activity-7317849208844124181-sGwI)
+
+- **Core Skills Every Front-End Engineer Should Build**
+  - Highlighting fundamental skills that contribute to becoming a successful front-end engineer.
+  - [Read More »](https://www.linkedin.com/posts/islamabdallahsalem_frontend-angular-softwareengineer-activity-7315674075475910657-bt9s)
+
+- **The Front-End Developer Mindset**
+  - Exploring the key mindset shifts needed to excel in front-end development.
+  - [Read More »](https://www.linkedin.com/posts/islamabdallahsalem_frontend-angular-softwareengineer-activity-7315300107338317824-pv8i)
+
+- **Front-End Engineer Success Framework**
+  - Building a strategic framework to achieve career success in front-end development.
+  - [Read More »](https://www.linkedin.com/posts/islamabdallahsalem_frontend-angular-softwareengineer-activity-7313207831556456448-FxSq)
+
+> 🔗 **To explore more, visit my full LinkedIn activity:** [See More Posts](https://www.linkedin.com/in/islamabdallahsalem/recent-activity/all/)
+
+---
+
 ## 📊 GitHub Stats
 
 ![Islam Abdallah's GitHub stats](https://github-readme-stats.vercel.app/api?username=islam-abdallah&show_icons=true&theme=radical)
@@ -81,7 +129,7 @@ I'm passionate about creating interactive, responsive, and visually appealing we
 
 ## 📫 Connect with Me
 
-- 🔗 LinkedIn: [Islam Abdallah Salem](https://www.linkedin.com/in/islam-abdallah-salem/)
+- 🔗 LinkedIn: [Islam Abdallah Salem](https://www.linkedin.com/in/islamabdallahsalem/)
 - 📧 Email: [engislam252@gmail.com](mailto:engislam252@gmail.com)
 
 ---
