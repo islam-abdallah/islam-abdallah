@@ -119,14 +119,6 @@ I regularly share insights and practical tips about:
 
 ---
 
-## 📊 GitHub Stats
-
-![Islam Abdallah's GitHub stats](https://github-readme-stats.vercel.app/api?username=islam-abdallah&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=islam-abdallah&layout=compact&theme=radical)
-
----
-
 ## 📫 Connect with Me
 
 - 🔗 LinkedIn: [Islam Abdallah Salem](https://www.linkedin.com/in/islamabdallahsalem/)
