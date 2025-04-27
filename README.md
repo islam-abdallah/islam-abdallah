@@ -23,23 +23,51 @@ I'm passionate about creating interactive, responsive, and visually appealing we
 
 ---
 
+## 💼 Professional Experience
+
+- **Senior Front-End Developer at AFAQY (Aug 2023 – Present)**
+  - Developing enterprise-level fleet management solutions using Angular and TypeScript.
+
+- **Senior Front-End Developer at YOUXEL (Sep 2021 – Aug 2023)**
+  - Built responsive web applications, enhancing UI/UX significantly.
+
+- **Senior Front-End Developer at El-Dokan (May 2020 – Sep 2021)**
+  - Developed e-commerce platforms, improving sales and user engagement.
+
+- **Front-End Developer at SOLEEKLAB (Aug 2018 – May 2020)**
+  - Contributed to multiple web applications, ensuring cross-browser compatibility and responsive design.
+
+- **Front-End Developer at SKYLINE (Jan 2018 – Jul 2018)**
+  - Worked on innovative UI solutions, enhancing the overall usability of web projects.
+
+- **Front-End Developer at PIERCODES (Nov 2016 – Dec 2017)**
+  - Developed interactive websites, optimized for performance and SEO.
+
+---
+
 ## 🌟 Highlighted Projects
 
-- 🚗 **[FLEET Web | AFAQY](#)**
+- 🚗 **FLEET Web | AFAQY**
   - Comprehensive fleet management portal with rich UI dashboards.
   - Technologies: Angular, TypeScript, SCSS
 
-- 📱 **[Fleet Mobile App](#)**
+- 📱 **Fleet Mobile App**
   - Ionic-based mobile app for fleet management, available on iOS and Android.
   - Technologies: Ionic, Angular, TypeScript
 
-- 🌐 **[MCIT Web Portal](#)**
+- 🌐 **MCIT Web Portal**
   - Official portal for Ministry of Communications and Information Technology, KSA.
   - Technologies: Angular, Bootstrap, TypeScript
 
-- 💻 **[Mobility Web App](#)**
+- 💻 **Mobility Web App**
   - Web application featuring admin management and marketplace functionalities.
   - Technologies: React, SCSS, Redux
+
+- 🏛️ **NDF Web**
+  - National Development Fund portal and admin management.
+
+- 🚙 **Budget Web**
+  - Admin panel for recent car budget management in KSA.
 
 ---
 
@@ -53,7 +81,7 @@ I'm passionate about creating interactive, responsive, and visually appealing we
 
 ## 📫 Connect with Me
 
-- 🔗 LinkedIn: [Islam Abdallah Salem](https://www.linkedin.com/in/islamabdallahsalem/)
+- 🔗 LinkedIn: [Islam Abdallah Salem](https://www.linkedin.com/in/islam-abdallah-salem/)
 - 📧 Email: [engislam252@gmail.com](mailto:engislam252@gmail.com)
 
 ---
